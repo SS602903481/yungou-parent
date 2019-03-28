@@ -1,0 +1,18 @@
+server:
+  port: 1299
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    prefer-ip-address: true
+spring:
+  application:
+    name: yungou-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/SS602903481/java_application_server.git
+          username: SS602903481
+          password: 1131402896fang

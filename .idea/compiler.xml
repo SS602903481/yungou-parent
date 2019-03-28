@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yungou-basic-util" />
+        <module name="yungou-config-server-1299" />
+        <module name="yungou-config-server-9527" />
+        <module name="yungou-eureka-server-7001" />
+        <module name="yungou-interface" />
+        <module name="yungou-provider-server-8001" />
+        <module name="yungou-zuul-server-1922" />
+        <module name="yungou-zuul-server-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a" target="1.8" />
+      <module name="yungou-basic-parent" target="1.8" />
+      <module name="yungou-basic-util" target="1.8" />
+      <module name="yungou-config-server-1299" target="1.8" />
+      <module name="yungou-config-server-9527" target="1.8" />
+      <module name="yungou-eureka-server-7001" target="1.8" />
+      <module name="yungou-interface" target="1.8" />
+      <module name="yungou-parent" target="1.8" />
+      <module name="yungou-plat-parent" target="1.8" />
+      <module name="yungou-provider-server-8001" target="1.8" />
+      <module name="yungou-zuul-server-1922" target="1.8" />
+      <module name="yungou-zuul-server-9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

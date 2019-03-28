@@ -1,0 +1,18 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: MICROSERVICE-ZUUL-GATEWAY
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    instance-id: gateway-9527
+    prefer-ip-address: true
+zuul:
+  routes:
+    getpro.serviceId: yungou-provider
+    getpro.path: /getpro/**
+  ignored-services: "*"
+  prefix: "/yungou"

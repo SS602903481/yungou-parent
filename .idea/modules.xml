@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yungou-basic-parent/yungou-basic-parent.iml" filepath="$PROJECT_DIR$/yungou-basic-parent/yungou-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yungou-basic-parent/yungou-basic-util/yungou-basic-util.iml" filepath="$PROJECT_DIR$/yungou-basic-parent/yungou-basic-util/yungou-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yungou-config-server-1299/yungou-config-server-1299.iml" filepath="$PROJECT_DIR$/yungou-config-server-1299/yungou-config-server-1299.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yungou-eureka-server-7001/yungou-eureka-server-7001.iml" filepath="$PROJECT_DIR$/yungou-eureka-server-7001/yungou-eureka-server-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yungou-plat-parent/yungou-interface/yungou-interface.iml" filepath="$PROJECT_DIR$/yungou-plat-parent/yungou-interface/yungou-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yungou-parent.iml" filepath="$PROJECT_DIR$/yungou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yungou-plat-parent/yungou-plat-parent.iml" filepath="$PROJECT_DIR$/yungou-plat-parent/yungou-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yungou-plat-parent/yungou-provider-server-8001/yungou-provider-server-8001.iml" filepath="$PROJECT_DIR$/yungou-plat-parent/yungou-provider-server-8001/yungou-provider-server-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yungou-zuul-server-9527/yungou-zuul-server-9527.iml" filepath="$PROJECT_DIR$/yungou-zuul-server-9527/yungou-zuul-server-9527.iml" />
+    </modules>
+  </component>
+</project>

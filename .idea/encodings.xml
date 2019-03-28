@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yungou-basic-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yungou-basic-parent/yungou-basic-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yungou-config-server-1299" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yungou-eureka-server-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yungou-plat-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yungou-plat-parent/yungou-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yungou-plat-parent/yungou-provider-server-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yungou-zuul-server-9527" charset="UTF-8" />
+  </component>
+</project>
